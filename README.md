@@ -1,1 +1,3 @@
 # Tetris
+
+ncurses dll need
